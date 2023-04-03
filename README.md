@@ -1,4 +1,8 @@
 # git-credential-kwallet
+
+This is a fork from https://github.com/Templar-von-Midgard/git-credential-kwallet/ ,
+which integrates fixes from https://github.com/dasbaumwolltier/git-credential-kwallet/
+
 [![Build](https://github.com/Templar-von-Midgard/git-credential-kwallet/actions/workflows/build.yml/badge.svg)](https://github.com/Templar-von-Midgard/git-credential-kwallet/actions/workflows/build.yml)
 
 Git credential helper for KWallet
