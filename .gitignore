@@ -32,6 +32,7 @@
 *.app
 
 # Build directories
+/build/
 /_builds/
 
 # Qt Creator project file
